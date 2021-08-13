@@ -129,7 +129,7 @@ html {
     /* 50% chiều ngang của chính nó */
     padding-top: 50%;
     /* Đổ nền ảnh tính từ padding */
-    background: url(./img/chicago.jpg) no-repeat top center / cover;
+    background: url(img/chicago.jpg) no-repeat top center / cover;
 }
 
 #slider .text-content {
